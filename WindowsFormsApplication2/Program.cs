@@ -18,6 +18,9 @@ namespace WindowsFormsApplication2
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             //fix
+            private int i { }
+        {
+
         }
     }
 }
